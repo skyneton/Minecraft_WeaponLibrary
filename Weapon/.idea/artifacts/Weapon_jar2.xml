@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Weapon:jar2">
+    <output-path>$PROJECT_DIR$/../../마인크래프트/ZombieTest/plugins</output-path>
+    <root id="archive" name="Weapon.jar">
+      <element id="module-output" name="Weapon" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../마인크래프트/spigot-1.12.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
